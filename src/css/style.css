@@ -22,6 +22,6 @@
 .nav-item{
     list-style: none;
 }
-.mobile-nav{
+.mobile-nav, .mobile{
     display: none;
 }
