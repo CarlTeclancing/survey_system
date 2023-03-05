@@ -1,0 +1,27 @@
+.contain{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.nav-col{
+    width: 70%;
+}
+.navbar-nav-lg{
+    width: 80%;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.navbar-nav:nth-child(n){
+    width: 100%;
+    margin: 8px;
+}
+.nav-item{
+    list-style: none;
+}
+.mobile-nav{
+    display: none;
+}
