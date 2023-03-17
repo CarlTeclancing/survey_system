@@ -1,4 +1,7 @@
-
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
 .contain{
     display: flex;
     width: 100%;
@@ -28,4 +31,8 @@
 }
 #hero{
     width: 100%;
+}
+.l-a{
+    color: white;
+    text-decoration: none;
 }

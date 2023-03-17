@@ -70,7 +70,7 @@
           </div>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">Sign up</a>
+            <a class="nav-link" href="./pages/login.php">Sign up</a>
           </li>
           <button type="submit" class="btn btn-primary">Sign in</button>
         </div>
